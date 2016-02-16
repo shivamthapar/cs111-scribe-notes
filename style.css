@@ -1,0 +1,28 @@
+.container{
+  padding-top: 10px;
+}
+h1, h2, h3, h4{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 300;
+  margin-bottom: 0px;
+}
+
+h5, h6{
+  font-family: 'Roboto', sans-serif;
+  margin-bottom: 0px;
+}
+
+h5{
+  font-size: 2.0rem;
+}
+
+p, a{
+  font-family: 'Roboto', sans-serif;
+}
+hr{
+  margin-top: 10px;
+}
+
+ul li{
+  list-style-type:disc;
+}
